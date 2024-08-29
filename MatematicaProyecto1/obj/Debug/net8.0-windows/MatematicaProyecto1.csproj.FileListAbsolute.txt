@@ -1,0 +1,17 @@
+C:\Users\William\Documents\UniversidadGalileo\Matematica\MatematicaProyecto1\MatematicaProyecto1\MatematicaProyecto1\bin\Debug\net8.0-windows\MatematicaProyecto1.exe
+C:\Users\William\Documents\UniversidadGalileo\Matematica\MatematicaProyecto1\MatematicaProyecto1\MatematicaProyecto1\bin\Debug\net8.0-windows\MatematicaProyecto1.deps.json
+C:\Users\William\Documents\UniversidadGalileo\Matematica\MatematicaProyecto1\MatematicaProyecto1\MatematicaProyecto1\bin\Debug\net8.0-windows\MatematicaProyecto1.runtimeconfig.json
+C:\Users\William\Documents\UniversidadGalileo\Matematica\MatematicaProyecto1\MatematicaProyecto1\MatematicaProyecto1\bin\Debug\net8.0-windows\MatematicaProyecto1.dll
+C:\Users\William\Documents\UniversidadGalileo\Matematica\MatematicaProyecto1\MatematicaProyecto1\MatematicaProyecto1\bin\Debug\net8.0-windows\MatematicaProyecto1.pdb
+C:\Users\William\Documents\UniversidadGalileo\Matematica\MatematicaProyecto1\MatematicaProyecto1\MatematicaProyecto1\obj\Debug\net8.0-windows\MatematicaProyecto1.Form1.resources
+C:\Users\William\Documents\UniversidadGalileo\Matematica\MatematicaProyecto1\MatematicaProyecto1\MatematicaProyecto1\obj\Debug\net8.0-windows\MatematicaProyecto1.csproj.GenerateResource.cache
+C:\Users\William\Documents\UniversidadGalileo\Matematica\MatematicaProyecto1\MatematicaProyecto1\MatematicaProyecto1\obj\Debug\net8.0-windows\MatematicaProyecto1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\William\Documents\UniversidadGalileo\Matematica\MatematicaProyecto1\MatematicaProyecto1\MatematicaProyecto1\obj\Debug\net8.0-windows\MatematicaProyecto1.AssemblyInfoInputs.cache
+C:\Users\William\Documents\UniversidadGalileo\Matematica\MatematicaProyecto1\MatematicaProyecto1\MatematicaProyecto1\obj\Debug\net8.0-windows\MatematicaProyecto1.AssemblyInfo.cs
+C:\Users\William\Documents\UniversidadGalileo\Matematica\MatematicaProyecto1\MatematicaProyecto1\MatematicaProyecto1\obj\Debug\net8.0-windows\MatematicaProyecto1.csproj.CoreCompileInputs.cache
+C:\Users\William\Documents\UniversidadGalileo\Matematica\MatematicaProyecto1\MatematicaProyecto1\MatematicaProyecto1\obj\Debug\net8.0-windows\MatematicaProyecto1.dll
+C:\Users\William\Documents\UniversidadGalileo\Matematica\MatematicaProyecto1\MatematicaProyecto1\MatematicaProyecto1\obj\Debug\net8.0-windows\refint\MatematicaProyecto1.dll
+C:\Users\William\Documents\UniversidadGalileo\Matematica\MatematicaProyecto1\MatematicaProyecto1\MatematicaProyecto1\obj\Debug\net8.0-windows\MatematicaProyecto1.pdb
+C:\Users\William\Documents\UniversidadGalileo\Matematica\MatematicaProyecto1\MatematicaProyecto1\MatematicaProyecto1\obj\Debug\net8.0-windows\MatematicaProyecto1.genruntimeconfig.cache
+C:\Users\William\Documents\UniversidadGalileo\Matematica\MatematicaProyecto1\MatematicaProyecto1\MatematicaProyecto1\obj\Debug\net8.0-windows\ref\MatematicaProyecto1.dll
+C:\Users\William\Documents\UniversidadGalileo\Matematica\MatematicaProyecto1\MatematicaProyecto1\MatematicaProyecto1\obj\Debug\net8.0-windows\MatematicaProyecto1.Properties.Resources.resources

@@ -1,0 +1,8 @@
+<Config>
+<Matriz>2,7,3
+2,3,2
+3,1,2</Matriz>
+<MatrizInversa>4,18,5
+2,24,2
+22,19,21</MatrizInversa>
+</Config>

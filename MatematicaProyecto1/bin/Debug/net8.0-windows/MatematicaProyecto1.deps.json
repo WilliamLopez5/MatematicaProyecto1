@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MatematicaProyecto1/1.0.0": {
+        "runtime": {
+          "MatematicaProyecto1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MatematicaProyecto1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
